@@ -4,7 +4,7 @@ Lecture 2 - First Machine Learning Pipeline
 
 
 # Quiz Answers
-1A, 2C, 3B, 4C, 5C, 6A, 7D  
+1B, 2C, 3B, 4C, 5C, 6A, 7:B/D  
 
 
 ### 1. How many records were in the Iris Dataset?
