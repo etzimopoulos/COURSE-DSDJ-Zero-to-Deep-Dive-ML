@@ -51,7 +51,7 @@ C. I find it difficult to make it to the class due to the time
 D. I haven't finished the lectures yet, but will have catch up, using some of today's passion.
 
 #### Quiz Answers
-1B, 2C, 3B, 4C, 5C, 6A, 7:B/D  
+Answers to the Quiz for Week 2: 1B, 2C, 3B, 4C, 5C, 6A, 7:B/D  
 
 
 # Lecture 3
@@ -97,4 +97,5 @@ B. Add calculations based on existing columns
 C. One-hot-encoding categorical features
 D. Embedded models
 
-### Quiz Answers: 
+#### Quiz Answers
+Answers to the Quiz for Week 3: 1D, 2B, 3B, 4B, 5C, 6C , 7B
